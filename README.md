@@ -1,8 +1,13 @@
 PML
 ===
 
-PML Course Project on HAR Prediction
-This repositoty contains the coursework project for the Practical Machine Learning via Coursera conducted by Brian Caffo, Jeff Leek and Roger Peng of the Johns Hopkins University. The following files have been added to this repository.
+This project develops a machine learning model to identify the various exercise patterns utilizing the Human Activity Reporting Data (HAR) provided by http://groupware.les.inf.puc-rio.br/har. 
+
+The model utilizes Random Forest for classification. The training data was split into a 70-30 ratio for training and cross validating the model. the training and cross validation errors can be seen at the bottom of each report respectively.
+
+It was also found that only 17 feature activiely participated in determining the clusters. Hence the final model has been trained with 17 features only. 
+
+This repositoty contains the various components and reports generated during this project. The following is a description of all the components in this repository.
 
 I thank the HAR group for providing the data to conduct this analysis and develop the model. The details for the HAR group can be found in http://groupware.les.inf.puc-rio.br/har
 
