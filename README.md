@@ -16,3 +16,5 @@ I thank the HAR group for providing the data to conduct this analysis and develo
 3.   PML_Project_trn.pdf: This contains the execution of the PML_Project.Rmd in training mode (training=T)
 4.   PML_Project_tst.pdf: This contains the execution of the PML_Project.Rmd in testing mode (training=F)
 5.   PML_Project_Submission.pdf: This contains the execution of the PML_Project_Sub.Rmd for predicting the test set (PML-Testing.csv) data.
+
+The training data for this project can be downloaded from https://d396qusza40orc.cloudfront.net/predmachlearn/pml-training.csv 
